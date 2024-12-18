@@ -1,0 +1,13 @@
+{
+	"map": [
+		{
+			"id": 2147483647,
+			"path": "Sources/Methods/Method1.4dm"
+		}
+	],
+	"version": 8320,
+	"targets": {
+		"x86_64_generic": true
+	},
+	"arch64": true
+}
