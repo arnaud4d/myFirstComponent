@@ -1,4 +1,5 @@
 
+<!-- Bouton "remonter en haut" -->
 <a href="#top" class="back-to-top">⬆️</a>
 
 <style>
@@ -21,6 +22,7 @@
 }
 </style>
 
+# <a id="top"></a>
 
 ---
 title: "Page d'exemple"
